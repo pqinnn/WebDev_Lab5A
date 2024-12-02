@@ -5,8 +5,8 @@
 </head>
 <body>
     <?php 
-        $name = "OOI POH QIN";
-        $matricNumber = "AI220264";
+        $name = "SOMEBODY";
+        $matricNumber = "MAGIC NUMBER";
         $course = "BIS";
         $yearOfStudy = 3;
         $address = "123, MYSTERY TAMAN, 86400, PARIT RAJA, JOHOR.";
